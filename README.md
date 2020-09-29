@@ -1,3 +1,8 @@
+# React Server Side Rendering
+Basic SSR config in React.
+
+Reference: https://www.digitalocean.com/community/tutorials/react-server-side-rendering
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
